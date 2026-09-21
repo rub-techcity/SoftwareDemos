@@ -5,7 +5,7 @@ This repository features demo implementations of software design pattern and hig
 ## DesignPattern
 A standalone C++ demonstration of the Composite Design Pattern, showcasing clean object-oriented architecture and automated testing.
 
-•	Key Features: Full implementation of the Composite Pattern, complete with an accompanying UML diagram.
+•	Key Features: Full implementation of the Composite Pattern, an UML diagram is given.
 
 •	Testing Framework: Integrated with Catch2 for unit testing and verification.
 
