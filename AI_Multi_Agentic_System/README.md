@@ -137,7 +137,7 @@ In case the code in Jupiter Notebook cells does not run, or you
 encounter other difficulties, do the following:
 
 Check that Python version is 3 or later.\
-Check that you have started the cells in correct sequence -- from top to
+Check that you have started the cells in correct sequence - from top to
 bottom.\
 In case of other difficulties contact the vendor:
 <ruben.ispiryan@yahoo.de>. Attach screenshots and diagnostic messages.
