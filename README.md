@@ -9,7 +9,7 @@ This repository features demo implementations.
 [AI Multi-Agentic System for CI/CD Pipelines](AI_Multi_Agentic_System/)
 
 
-## [DesignPattern](DesignPattern/)
+## [Design Pattern](DesignPattern/)
 A standalone C++ demonstration of the Composite Design Pattern, showcasing clean object-oriented architecture and automated testing.
 
 •	Key Features: Full implementation of the Composite Pattern, an UML diagram is given.
