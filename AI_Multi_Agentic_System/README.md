@@ -1,4 +1,4 @@
-## AI Multi-Agentic Workflow to Use in CI/CD Pipeline for Evaluation of Pull Request Code Changes ##
+## AI Multi-Agentic Workflow to Use in CI/CD Pipeline for Evaluation of Pull Request Code Changes 
 
 <br><br>
 
@@ -50,7 +50,7 @@ workflow diagram below:
 
 **The Result of the Work of this CrewAI**
 
-The input to the system is a pull request code diff containing backend
+The input to the system is a pull request report (output of git 'diff') containing backend
 user authentication and database logic. The system processes this code
 through sequential quality and security evaluations conducted by the
 specialized agents. The output is a comprehensive decision report
@@ -64,8 +64,8 @@ and a final approval or escalation recommendation.
 To run this multi-agent system, simply open your Jupyter Notebook and
 execute each code cell sequentially from top to bottom. The code file
 is: MultiAgentTool_CrewAI_JupiterNotebookCells.py. The system
-automatically loads the pull request code 'diff' from an example file
-named code_changes.txt. You will configure the tools, set up the
+automatically loads the pull request report (output of 'diff') from an example file
+'code_changes.txt'. You will configure the tools, set up the
 specialized agents, define their individual tasks, and assemble them
 into a Crew. To start the workflow, run the final kickoff cell, which
 feeds the code changes into the automated review pipeline. Once
